@@ -1,0 +1,82 @@
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+H:\Мои проекты\c#\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+H:\Мои проекты\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Pages\addPage.g.cs
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Pages\mainPage.g.cs
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Pages\addPage.baml
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Pages\mainPage.baml
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Views.g.cs
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Kamilla\Downloads\WPF_Demo-master (1)\WPF_Demo-master\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Views.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\addDataPage.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\addPage.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\mainPage.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\SavePage.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\Views.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\App.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\addDataPage.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\addPage.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\mainPage.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\SavePage.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Pages\Views.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\WPF-Learn-master\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
